@@ -1,0 +1,24 @@
+{
+  "name": "recyclopedia-trash-proto",
+  "version": "1.0.0",
+  "description": "Smart trash classification app using Google Gemini AI",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel",
+    "deploy:prod": "vercel --prod",
+    "env:add": "vercel env add",
+    "env:list": "vercel env ls"
+  },
+  "keywords": [
+    "trash",
+    "recycling",
+    "classification",
+    "gemini",
+    "ai",
+    "computer-vision"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
