@@ -2,7 +2,7 @@
 
 This guide explains how to deploy Recyclopedia with secure environment variable storage for your Gemini API key.
 
-## Architecture
+## Architecture of the project
 
 The app uses a **serverless backend** to keep your API key secure:
 
